@@ -238,7 +238,5 @@ print('I have eaten ' + str(99) + ' burritos')
 
 I have eaten 99 burritos
 
-My Github link:
 
-https://github.com/PoojaDasIndia/Assignment_Python/blob/main/Python%20Basic%20Assignments/Python_Basic_Assignment_1%20.ipynb
 ```
